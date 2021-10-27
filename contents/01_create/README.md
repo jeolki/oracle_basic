@@ -19,7 +19,7 @@ CREATE TABLE 테이블명(
 
 예제 ) 한국건설의 물리 erd를 참조하여 테이블을 생성하시오
 
-<img src="./images/create_red.png"  width="100%"/>
+<img src="../../images/create_erd.png"  width="100%"/>
 
 ```
 CREATE TABLE EMP( 
